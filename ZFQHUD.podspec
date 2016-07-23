@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
   this is desc hah sdfsdfsdfsdf sdfsd
                    DESC
 
-  s.homepage     = "https://github.com/zfq/ZFQHUDPod"
+  s.homepage     = "http://github.com/zfq/ZFQHUDPod"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -78,7 +78,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/zfq/ZFQHUDPod.git", :tag => "#{s.version}" }
+  s.source       = { :git => "http://github.com/zfq/ZFQHUDPod.git", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
