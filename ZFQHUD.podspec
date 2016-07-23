@@ -27,6 +27,7 @@ Pod::Spec.new do |s|
 
   s.source       = { :git => "https://github.com/zfq/ZFQHUDPod.git", :tag => "#{s.version}" }
 
+
   s.source_files  = "ZFQHUD", "ZFQHUD/ZFQHUD/Class/**/*.{h,m}"
   s.requires_arc = true
 
